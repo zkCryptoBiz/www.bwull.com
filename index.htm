@@ -19,6 +19,60 @@
 <meta name="twitter:url" content="https://www.bwull.com">
 <meta name="twitter:card" content="summary">
 <meta name="description" content="">
+    <style>
+        /* Стили кнопки */
+        .generate-btn {
+            display: inline-block;
+            padding: 12px 24px;
+            font-size: 18px;
+            background-color: #c05641;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .generate-btn:hover {
+            background-color: #a04a37;
+        }
+
+        /* Стили модального окна */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.6);
+            justify-content: center;
+            align-items: center;
+        }
+        .modal-content {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            width: 90%;
+            max-width: 900px;
+            position: relative;
+        }
+        .modal iframe {
+            width: 100%;
+            height: 600px;
+            border: none;
+        }
+        .close-btn {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            background: red;
+            color: white;
+            border: none;
+            font-size: 16px;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+    </style>
 <link rel="preconnect" href="index-1.htm">
 <script type="text/javascript" src="ik/zUD20H0nosPuGtCo599OutXwMtcsmFkdvjny2ntF32jfeqqJXnX1IyvhF2jtFRZLFRZ8w2qDZAFcwRMkw2wujDMkjDFKFQMDe6MK2AFCjWFD-AwljhNl-Aw7f6KQz6IbMg6IJMHbMjrl6nSe.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -2548,9 +2602,32 @@
 </div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1732219271675_4045"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-yui_3_17_2_1_1732219271675_4045"><div class="sqs-block-content">
 
 <div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium" data-button-type="primary">
-  <a href="https://pfp.bwull.com" class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" target="_blank">
-    GENERATE
-  </a>
+  <button class="generate-btn" id="openModal">Generate</button>
+
+    <!-- Модальное окно -->
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <button class="close-btn" id="closeModal">X</button>
+            <iframe src="https://pfp.bwull.com"></iframe>
+        </div>
+    </div>
+
+    <script>
+        // Открытие и закрытие модального окна
+        document.getElementById("openModal").addEventListener("click", function() {
+            document.getElementById("modal").style.display = "flex";
+        });
+
+        document.getElementById("closeModal").addEventListener("click", function() {
+            document.getElementById("modal").style.display = "none";
+        });
+
+        window.addEventListener("click", function(event) {
+            if (event.target === document.getElementById("modal")) {
+                document.getElementById("modal").style.display = "none";
+            }
+        });
+    </script>
 </div>
 </div></div></div></div></div>
     </div>
