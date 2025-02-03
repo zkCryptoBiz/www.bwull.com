@@ -1,0 +1,260 @@
+Uri: https://pfp.bwull.com/
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\index.htm
+Content Type: text/html
+
+Uri: https://pfp.bwull.com/favicon.ico
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Ficons%2FCG%2BLOGO.png&w=32&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\CG+LOGO-1.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Ficons%2FCG%2BLOGO.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\CG+LOGO.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Ficons%2FDEXSCREENER%2BWHITE.png&w=32&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\DEXSCREENER+WHITE-1.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Ficons%2FDEXSCREENER%2BWHITE.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\DEXSCREENER+WHITE.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Ficons%2FDEXTOOLS%2BWHITE.png&w=32&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\DEXTOOLS+WHITE-1.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Ficons%2FDEXTOOLS%2BWHITE.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\DEXTOOLS+WHITE.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Ficons%2FTG.png&w=32&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\TG-1.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Ficons%2FTG.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\TG.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Ficons%2FWHITE%2BCMC%2BLOGO.png&w=32&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\WHITE+CMC+LOGO-1.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Ficons%2FWHITE%2BCMC%2BLOGO.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\WHITE+CMC+LOGO.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Ficons%2FX.png&w=32&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\X-1.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Ficons%2FX.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\X.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbackgrounds%2FIMG_7210.PNG&w=1080&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7210-4.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbackgrounds%2FIMG_7210.PNG&w=1200&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7210-5.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbackgrounds%2FIMG_7210.PNG&w=1920&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7210-6.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbackgrounds%2FIMG_7210.PNG&w=2048&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7210-7.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbackgrounds%2FIMG_7210.PNG&w=3840&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7210.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbackgrounds%2FIMG_7210.PNG&w=640&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7210-1.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbackgrounds%2FIMG_7210.PNG&w=750&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7210-2.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbackgrounds%2FIMG_7210.PNG&w=828&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7210-3.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbodies%2FIMG_7474.PNG&w=1080&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7474-4.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbodies%2FIMG_7474.PNG&w=1200&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7474-5.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbodies%2FIMG_7474.PNG&w=1920&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7474-6.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbodies%2FIMG_7474.PNG&w=2048&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7474-7.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbodies%2FIMG_7474.PNG&w=3840&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7474.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbodies%2FIMG_7474.PNG&w=640&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7474-1.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbodies%2FIMG_7474.PNG&w=750&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7474-2.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fbodies%2FIMG_7474.PNG&w=828&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7474-3.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Feyes%2FIMG_7188.PNG&w=1080&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7188-4.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Feyes%2FIMG_7188.PNG&w=1200&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7188-5.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Feyes%2FIMG_7188.PNG&w=1920&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7188-6.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Feyes%2FIMG_7188.PNG&w=2048&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7188-7.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Feyes%2FIMG_7188.PNG&w=3840&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7188.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Feyes%2FIMG_7188.PNG&w=640&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7188-1.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Feyes%2FIMG_7188.PNG&w=750&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7188-2.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Feyes%2FIMG_7188.PNG&w=828&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7188-3.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fhorns%2FIMG_7561.PNG&w=1080&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7561-4.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fhorns%2FIMG_7561.PNG&w=1200&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7561-5.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fhorns%2FIMG_7561.PNG&w=1920&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7561-6.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fhorns%2FIMG_7561.PNG&w=2048&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7561-7.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fhorns%2FIMG_7561.PNG&w=3840&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7561.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fhorns%2FIMG_7561.PNG&w=640&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7561-1.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fhorns%2FIMG_7561.PNG&w=750&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7561-2.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fhorns%2FIMG_7561.PNG&w=828&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7561-3.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fmouths%2FIMG_7278.PNG&w=1080&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7278-4.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fmouths%2FIMG_7278.PNG&w=1200&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7278-5.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fmouths%2FIMG_7278.PNG&w=1920&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7278-6.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fmouths%2FIMG_7278.PNG&w=2048&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7278-7.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fmouths%2FIMG_7278.PNG&w=3840&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7278.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fmouths%2FIMG_7278.PNG&w=640&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7278-1.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fmouths%2FIMG_7278.PNG&w=750&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7278-2.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/image?url=%2Fpfp%2Fmouths%2FIMG_7278.PNG&w=828&q=75
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\IMG_7278-3.png
+Content Type: image/png
+
+Uri: https://pfp.bwull.com/_next/static/chunks/117-5425cc76f3610658.js
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\static\chunks\117-5425cc76f3610658.js
+Content Type: application/javascript
+
+Uri: https://pfp.bwull.com/_next/static/chunks/838-25515175a7a339f5.js
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\static\chunks\838-25515175a7a339f5.js
+Content Type: application/javascript
+
+Uri: https://pfp.bwull.com/_next/static/chunks/ad2866b8-fe78772e8e3901c2.js
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\static\chunks\ad2866b8-fe78772e8e3901c2.js
+Content Type: application/javascript
+
+Uri: https://pfp.bwull.com/_next/static/chunks/app/page-e42f244c189fd797.js
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\static\chunks\app\page-e42f244c189fd797.js
+Content Type: application/javascript
+
+Uri: https://pfp.bwull.com/_next/static/chunks/fd9d1056-bcac24dd9ff9795a.js
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\static\chunks\fd9d1056-bcac24dd9ff9795a.js
+Content Type: application/javascript
+
+Uri: https://pfp.bwull.com/_next/static/chunks/main-app-2dcde4753ea0d175.js
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\static\chunks\main-app-2dcde4753ea0d175.js
+Content Type: application/javascript
+
+Uri: https://pfp.bwull.com/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://pfp.bwull.com/_next/static/chunks/webpack-7efc7b94d8b1833d.js
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\static\chunks\webpack-7efc7b94d8b1833d.js
+Content Type: application/javascript
+
+Uri: https://pfp.bwull.com/_next/static/css/3873e2a42d0beacb.css
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\static\css\3873e2a42d0beacb.css
+Content Type: text/css
+
+Uri: https://pfp.bwull.com/_next/static/media/BalooDa-Regular.342263b8.ttf
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\static\media\BalooDa-Regular.342263b8.ttf
+Content Type: font/ttf
+
+Uri: https://pfp.bwull.com/_next/static/media/e11418ac562b8ac1-s.p.woff2
+File Name: C:\Downloaded Web Sites\pfp.bwull.com\_next\static\media\e11418ac562b8ac1-s.p.woff2
+Content Type: font/woff2
+
