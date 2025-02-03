@@ -1,0 +1,544 @@
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js
+File Name: C:\Downloaded Web Sites\www.bwull.com\@sqs\polyfiller\1.6\legacy.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js
+File Name: C:\Downloaded Web Sites\www.bwull.com\@sqs\polyfiller\1.6\modern.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\fonts\social-20141119\social-icon-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\fonts\social-20141119\social-icon-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\fonts\social-20141119\social-icon-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\fonts\social-20141119\social-icon-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\fonts\social-20141119\social-icon-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\fonts\squarespace-ui-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot?
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\fonts\squarespace-ui-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.svg
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\fonts\squarespace-ui-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\fonts\squarespace-ui-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.woff
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\fonts\squarespace-ui-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\edit-aviary-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\edit-aviary-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\edit-info-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\edit-info-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\error-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\error-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-16-light.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\getty-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-32-light.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\getty-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\play-button.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button@2x.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\play-button@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\shopping-cart-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\shopping-cart-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\trash-9-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\trash-9-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\trash-9-red.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\damask\trash-9-red@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\icons\block-indicator-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\icons\block-indicator-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\icons\icon-searchqueries-20-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\icons\icon-searchqueries-20-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\icons\icon-settings-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\icons\icon-video-24-light-solid.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\icons\opentable-icons.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.svg
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\icons\opentable-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\images-v6\standard\icon_close_7_light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-457f4d444e0242501efb-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\scripts-compressed\cldr-resource-pack-457f4d444e0242501efb-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-fd23f98348434a5bd766-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\scripts-compressed\common-fd23f98348434a5bd766-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-314ee5faa8772ea96b8d-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\scripts-compressed\common-vendors-314ee5faa8772ea96b8d-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-61293f01d648eef165fc-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\scripts-compressed\common-vendors-stable-61293f01d648eef165fc-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6c569122bfa66a51a056-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\scripts-compressed\extract-css-moment-js-vendor-6c569122bfa66a51a056-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-55b93dbd5ded9abf3a9d-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\scripts-compressed\extract-css-runtime-55b93dbd5ded9abf3a9d-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/performance-6103798e486f903dfbc9-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\scripts-compressed\performance-6103798e486f903dfbc9-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/user-account-core-f77256e7efb88b390f33-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\scripts-compressed\user-account-core-f77256e7efb88b390f33-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/styles-compressed/user-account-core-b6e8cafbf34b05da5c2b-min.en-US.css
+File Name: C:\Downloaded Web Sites\www.bwull.com\universal\styles-compressed\user-account-core-b6e8cafbf34b05da5c2b-min.en-US.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Baloo+Da:wght@400&family=Chakra+Petch:ital,wght@0,300;0,700;1,300;1,700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700
+File Name: C:\Downloaded Web Sites\www.bwull.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/balooda/v20/LhWmMVnXOfIZO795FXkf.ttf
+File Name: C:\Downloaded Web Sites\www.bwull.com\s\balooda\v20\LhWmMVnXOfIZO795FXkf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/chakrapetch/v11/cIflMapbsEk7TDLdtEz1BwkeJI9FQA.ttf
+File Name: C:\Downloaded Web Sites\www.bwull.com\s\chakrapetch\v11\cIflMapbsEk7TDLdtEz1BwkeJI9FQA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/chakrapetch/v11/cIflMapbsEk7TDLdtEz1BwkeNIhFQA.ttf
+File Name: C:\Downloaded Web Sites\www.bwull.com\s\chakrapetch\v11\cIflMapbsEk7TDLdtEz1BwkeNIhFQA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/chakrapetch/v11/cIfnMapbsEk7TDLdtEz1BwkWmpLJQp_A.ttf
+File Name: C:\Downloaded Web Sites\www.bwull.com\s\chakrapetch\v11\cIfnMapbsEk7TDLdtEz1BwkWmpLJQp_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/chakrapetch/v11/cIfnMapbsEk7TDLdtEz1BwkWmpLZRZ_A.ttf
+File Name: C:\Downloaded Web Sites\www.bwull.com\s\chakrapetch\v11\cIfnMapbsEk7TDLdtEz1BwkWmpLZRZ_A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacemono/v14/i7dMIFZifjKcF5UAWdDRaPpZYFI.ttf
+File Name: C:\Downloaded Web Sites\www.bwull.com\s\spacemono\v14\i7dMIFZifjKcF5UAWdDRaPpZYFI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacemono/v14/i7dNIFZifjKcF5UAWdDRYER8QA.ttf
+File Name: C:\Downloaded Web Sites\www.bwull.com\s\spacemono\v14\i7dNIFZifjKcF5UAWdDRYER8QA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacemono/v14/i7dPIFZifjKcF5UAWdDRUEY.ttf
+File Name: C:\Downloaded Web Sites\www.bwull.com\s\spacemono\v14\i7dPIFZifjKcF5UAWdDRUEY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/spacemono/v14/i7dSIFZifjKcF5UAWdDRYERE_FeaGw.ttf
+File Name: C:\Downloaded Web Sites\www.bwull.com\s\spacemono\v14\i7dSIFZifjKcF5UAWdDRYERE_FeaGw.ttf
+Content Type: font/ttf
+
+Uri: https://images.squarespace-cdn.com/
+File Name: C:\Downloaded Web Sites\www.bwull.com\index-1.htm
+Content Type: 
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964730-QRBE9EEJZFMAOVLRZ60J/X.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964730-QRBE9EEJZFMAOVLRZ60J\X.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964730-QRBE9EEJZFMAOVLRZ60J/X.png?format=1000w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964730-QRBE9EEJZFMAOVLRZ60J\X-5.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964730-QRBE9EEJZFMAOVLRZ60J/X.png?format=100w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964730-QRBE9EEJZFMAOVLRZ60J\X-1.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964730-QRBE9EEJZFMAOVLRZ60J/X.png?format=1500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964730-QRBE9EEJZFMAOVLRZ60J\X-6.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964730-QRBE9EEJZFMAOVLRZ60J/X.png?format=2500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964730-QRBE9EEJZFMAOVLRZ60J\X-7.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964730-QRBE9EEJZFMAOVLRZ60J/X.png?format=300w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964730-QRBE9EEJZFMAOVLRZ60J\X-2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964730-QRBE9EEJZFMAOVLRZ60J/X.png?format=500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964730-QRBE9EEJZFMAOVLRZ60J\X-3.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964730-QRBE9EEJZFMAOVLRZ60J/X.png?format=750w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964730-QRBE9EEJZFMAOVLRZ60J\X-4.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964733-NPCLHPZH88JTK1KVDC93/TG.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964733-NPCLHPZH88JTK1KVDC93\TG.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964733-NPCLHPZH88JTK1KVDC93/TG.png?format=1000w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964733-NPCLHPZH88JTK1KVDC93\TG-5.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964733-NPCLHPZH88JTK1KVDC93/TG.png?format=100w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964733-NPCLHPZH88JTK1KVDC93\TG-1.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964733-NPCLHPZH88JTK1KVDC93/TG.png?format=1500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964733-NPCLHPZH88JTK1KVDC93\TG-6.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964733-NPCLHPZH88JTK1KVDC93/TG.png?format=2500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964733-NPCLHPZH88JTK1KVDC93\TG-7.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964733-NPCLHPZH88JTK1KVDC93/TG.png?format=300w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964733-NPCLHPZH88JTK1KVDC93\TG-2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964733-NPCLHPZH88JTK1KVDC93/TG.png?format=500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964733-NPCLHPZH88JTK1KVDC93\TG-3.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964733-NPCLHPZH88JTK1KVDC93/TG.png?format=750w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964733-NPCLHPZH88JTK1KVDC93\TG-4.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964737-4NHHZCMV9I5EC3RMQ6VV/DEXSCREENER+WHITE.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964737-4NHHZCMV9I5EC3RMQ6VV\DEXSCREENER WHITE.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964737-4NHHZCMV9I5EC3RMQ6VV/DEXSCREENER+WHITE.png?format=1000w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964737-4NHHZCMV9I5EC3RMQ6VV\DEXSCREENER WHITE-5.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964737-4NHHZCMV9I5EC3RMQ6VV/DEXSCREENER+WHITE.png?format=100w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964737-4NHHZCMV9I5EC3RMQ6VV\DEXSCREENER WHITE-1.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964737-4NHHZCMV9I5EC3RMQ6VV/DEXSCREENER+WHITE.png?format=1500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964737-4NHHZCMV9I5EC3RMQ6VV\DEXSCREENER WHITE-6.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964737-4NHHZCMV9I5EC3RMQ6VV/DEXSCREENER+WHITE.png?format=2500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964737-4NHHZCMV9I5EC3RMQ6VV\DEXSCREENER WHITE-7.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964737-4NHHZCMV9I5EC3RMQ6VV/DEXSCREENER+WHITE.png?format=300w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964737-4NHHZCMV9I5EC3RMQ6VV\DEXSCREENER WHITE-2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964737-4NHHZCMV9I5EC3RMQ6VV/DEXSCREENER+WHITE.png?format=500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964737-4NHHZCMV9I5EC3RMQ6VV\DEXSCREENER WHITE-3.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/1725993964737-4NHHZCMV9I5EC3RMQ6VV/DEXSCREENER+WHITE.png?format=750w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\1725993964737-4NHHZCMV9I5EC3RMQ6VV\DEXSCREENER WHITE-4.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/2b8115a7-8d1b-451e-8f41-7b5e5eb65935/CG+LOGO.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\2b8115a7-8d1b-451e-8f41-7b5e5eb65935\CG LOGO.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/2b8115a7-8d1b-451e-8f41-7b5e5eb65935/CG+LOGO.png?format=1000w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\2b8115a7-8d1b-451e-8f41-7b5e5eb65935\CG LOGO-5.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/2b8115a7-8d1b-451e-8f41-7b5e5eb65935/CG+LOGO.png?format=100w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\2b8115a7-8d1b-451e-8f41-7b5e5eb65935\CG LOGO-1.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/2b8115a7-8d1b-451e-8f41-7b5e5eb65935/CG+LOGO.png?format=1500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\2b8115a7-8d1b-451e-8f41-7b5e5eb65935\CG LOGO-6.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/2b8115a7-8d1b-451e-8f41-7b5e5eb65935/CG+LOGO.png?format=2500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\2b8115a7-8d1b-451e-8f41-7b5e5eb65935\CG LOGO-7.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/2b8115a7-8d1b-451e-8f41-7b5e5eb65935/CG+LOGO.png?format=300w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\2b8115a7-8d1b-451e-8f41-7b5e5eb65935\CG LOGO-2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/2b8115a7-8d1b-451e-8f41-7b5e5eb65935/CG+LOGO.png?format=500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\2b8115a7-8d1b-451e-8f41-7b5e5eb65935\CG LOGO-3.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/2b8115a7-8d1b-451e-8f41-7b5e5eb65935/CG+LOGO.png?format=750w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\2b8115a7-8d1b-451e-8f41-7b5e5eb65935\CG LOGO-4.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/44d7d611-3f74-431f-9959-7df0b413d8d6/DEXTOOLS+WHITE.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\44d7d611-3f74-431f-9959-7df0b413d8d6\DEXTOOLS WHITE.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/44d7d611-3f74-431f-9959-7df0b413d8d6/DEXTOOLS+WHITE.png?format=1000w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\44d7d611-3f74-431f-9959-7df0b413d8d6\DEXTOOLS WHITE-5.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/44d7d611-3f74-431f-9959-7df0b413d8d6/DEXTOOLS+WHITE.png?format=100w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\44d7d611-3f74-431f-9959-7df0b413d8d6\DEXTOOLS WHITE-1.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/44d7d611-3f74-431f-9959-7df0b413d8d6/DEXTOOLS+WHITE.png?format=1500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\44d7d611-3f74-431f-9959-7df0b413d8d6\DEXTOOLS WHITE-6.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/44d7d611-3f74-431f-9959-7df0b413d8d6/DEXTOOLS+WHITE.png?format=2500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\44d7d611-3f74-431f-9959-7df0b413d8d6\DEXTOOLS WHITE-7.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/44d7d611-3f74-431f-9959-7df0b413d8d6/DEXTOOLS+WHITE.png?format=300w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\44d7d611-3f74-431f-9959-7df0b413d8d6\DEXTOOLS WHITE-2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/44d7d611-3f74-431f-9959-7df0b413d8d6/DEXTOOLS+WHITE.png?format=500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\44d7d611-3f74-431f-9959-7df0b413d8d6\DEXTOOLS WHITE-3.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/44d7d611-3f74-431f-9959-7df0b413d8d6/DEXTOOLS+WHITE.png?format=750w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\44d7d611-3f74-431f-9959-7df0b413d8d6\DEXTOOLS WHITE-4.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/4a2ebd30-461f-4ec5-b457-614410892c3f/favicon.ico?format=100w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\4a2ebd30-461f-4ec5-b457-614410892c3f\favicon.ico
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/5fea8084-b328-4937-ad53-b3861a30ac96/about+bwull.jpg
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\5fea8084-b328-4937-ad53-b3861a30ac96\about bwull.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/5fea8084-b328-4937-ad53-b3861a30ac96/about+bwull.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\5fea8084-b328-4937-ad53-b3861a30ac96\about bwull-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/5fea8084-b328-4937-ad53-b3861a30ac96/about+bwull.jpg?format=100w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\5fea8084-b328-4937-ad53-b3861a30ac96\about bwull-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/5fea8084-b328-4937-ad53-b3861a30ac96/about+bwull.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\5fea8084-b328-4937-ad53-b3861a30ac96\about bwull-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/5fea8084-b328-4937-ad53-b3861a30ac96/about+bwull.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\5fea8084-b328-4937-ad53-b3861a30ac96\about bwull-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/5fea8084-b328-4937-ad53-b3861a30ac96/about+bwull.jpg?format=300w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\5fea8084-b328-4937-ad53-b3861a30ac96\about bwull-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/5fea8084-b328-4937-ad53-b3861a30ac96/about+bwull.jpg?format=500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\5fea8084-b328-4937-ad53-b3861a30ac96\about bwull-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/5fea8084-b328-4937-ad53-b3861a30ac96/about+bwull.jpg?format=750w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\5fea8084-b328-4937-ad53-b3861a30ac96\about bwull-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/a23be070-3aae-4efc-bcc5-693ca07fc4b0/WHITE+CMC+LOGO.png
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\a23be070-3aae-4efc-bcc5-693ca07fc4b0\WHITE CMC LOGO.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/a23be070-3aae-4efc-bcc5-693ca07fc4b0/WHITE+CMC+LOGO.png?format=1000w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\a23be070-3aae-4efc-bcc5-693ca07fc4b0\WHITE CMC LOGO-5.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/a23be070-3aae-4efc-bcc5-693ca07fc4b0/WHITE+CMC+LOGO.png?format=100w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\a23be070-3aae-4efc-bcc5-693ca07fc4b0\WHITE CMC LOGO-1.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/a23be070-3aae-4efc-bcc5-693ca07fc4b0/WHITE+CMC+LOGO.png?format=1500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\a23be070-3aae-4efc-bcc5-693ca07fc4b0\WHITE CMC LOGO-6.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/a23be070-3aae-4efc-bcc5-693ca07fc4b0/WHITE+CMC+LOGO.png?format=2500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\a23be070-3aae-4efc-bcc5-693ca07fc4b0\WHITE CMC LOGO-7.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/a23be070-3aae-4efc-bcc5-693ca07fc4b0/WHITE+CMC+LOGO.png?format=300w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\a23be070-3aae-4efc-bcc5-693ca07fc4b0\WHITE CMC LOGO-2.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/a23be070-3aae-4efc-bcc5-693ca07fc4b0/WHITE+CMC+LOGO.png?format=500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\a23be070-3aae-4efc-bcc5-693ca07fc4b0\WHITE CMC LOGO-3.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/a23be070-3aae-4efc-bcc5-693ca07fc4b0/WHITE+CMC+LOGO.png?format=750w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\a23be070-3aae-4efc-bcc5-693ca07fc4b0\WHITE CMC LOGO-4.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/dcd74fef-1341-45e9-a4f1-074924ee21c0/hero.jpg
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\dcd74fef-1341-45e9-a4f1-074924ee21c0\hero.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/dcd74fef-1341-45e9-a4f1-074924ee21c0/hero.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\dcd74fef-1341-45e9-a4f1-074924ee21c0\hero-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/dcd74fef-1341-45e9-a4f1-074924ee21c0/hero.jpg?format=100w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\dcd74fef-1341-45e9-a4f1-074924ee21c0\hero-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/dcd74fef-1341-45e9-a4f1-074924ee21c0/hero.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\dcd74fef-1341-45e9-a4f1-074924ee21c0\hero-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/dcd74fef-1341-45e9-a4f1-074924ee21c0/hero.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\dcd74fef-1341-45e9-a4f1-074924ee21c0\hero-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/dcd74fef-1341-45e9-a4f1-074924ee21c0/hero.jpg?format=300w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\dcd74fef-1341-45e9-a4f1-074924ee21c0\hero-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/dcd74fef-1341-45e9-a4f1-074924ee21c0/hero.jpg?format=500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\dcd74fef-1341-45e9-a4f1-074924ee21c0\hero-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/dcd74fef-1341-45e9-a4f1-074924ee21c0/hero.jpg?format=750w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\dcd74fef-1341-45e9-a4f1-074924ee21c0\hero-4.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/e7ca2441-6d20-42fa-8641-563ac05b8664/bwull+footer.jpg
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\e7ca2441-6d20-42fa-8641-563ac05b8664\bwull footer.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/e7ca2441-6d20-42fa-8641-563ac05b8664/bwull+footer.jpg?format=1000w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\e7ca2441-6d20-42fa-8641-563ac05b8664\bwull footer-5.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/e7ca2441-6d20-42fa-8641-563ac05b8664/bwull+footer.jpg?format=100w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\e7ca2441-6d20-42fa-8641-563ac05b8664\bwull footer-1.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/e7ca2441-6d20-42fa-8641-563ac05b8664/bwull+footer.jpg?format=1500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\e7ca2441-6d20-42fa-8641-563ac05b8664\bwull footer-6.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/e7ca2441-6d20-42fa-8641-563ac05b8664/bwull+footer.jpg?format=2500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\e7ca2441-6d20-42fa-8641-563ac05b8664\bwull footer-7.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/e7ca2441-6d20-42fa-8641-563ac05b8664/bwull+footer.jpg?format=300w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\e7ca2441-6d20-42fa-8641-563ac05b8664\bwull footer-2.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/e7ca2441-6d20-42fa-8641-563ac05b8664/bwull+footer.jpg?format=500w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\e7ca2441-6d20-42fa-8641-563ac05b8664\bwull footer-3.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/66e093ecf202035c02c3b503/e7ca2441-6d20-42fa-8641-563ac05b8664/bwull+footer.jpg?format=750w
+File Name: C:\Downloaded Web Sites\www.bwull.com\content\v1\66e093ecf202035c02c3b503\e7ca2441-6d20-42fa-8641-563ac05b8664\bwull footer-4.jpg
+Content Type: image/jpeg
+
+Uri: https://static1.squarespace.com/static/versioned-site-css/66e093ecf202035c02c3b503/4/5c5a519771c10ba3470d8101/66e093ecf202035c02c3b50b/1608/site.css
+File Name: C:\Downloaded Web Sites\www.bwull.com\static\versioned-site-css\66e093ecf202035c02c3b503\4\5c5a519771c10ba3470d8101\66e093ecf202035c02c3b50b\1608\site.css
+Content Type: text/css
+
+Uri: https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.9aee70a86e21d295040d66ba7e4cc0b7.js
+File Name: C:\Downloaded Web Sites\www.bwull.com\static\vta\5c5a519771c10ba3470d8101\scripts\site-bundle.9aee70a86e21d295040d66ba7e4cc0b7.js
+Content Type: application/javascript
+
+Uri: https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1738350326546-GBEBQ6FOATL40XTD0W0Z/static.css
+File Name: C:\Downloaded Web Sites\www.bwull.com\static\vta\5c5a519771c10ba3470d8101\versioned-assets\1738350326546-GBEBQ6FOATL40XTD0W0Z\static.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/ik/zUD20H0nosPuGtCo599OutXwMtcsmFkdvjny2ntF32jfeqqJXnX1IyvhF2jtFRZLFRZ8w2qDZAFcwRMkw2wujDMkjDFKFQMDe6MK2AFCjWFD-AwljhNl-Aw7f6KQz6IbMg6IJMHbMjrl6nSe.js
+File Name: C:\Downloaded Web Sites\www.bwull.com\ik\zUD20H0nosPuGtCo599OutXwMtcsmFkdvjny2ntF32jfeqqJXnX1IyvhF2jtFRZLFRZ8w2qDZAFcwRMkw2wujDMkjDFKFQMDe6MK2AFCjWFD-AwljhNl-Aw7f6KQz6IbMg6IJMHbMjrl6nSe.js
+Content Type: text/javascript
+
+Uri: https://www.bwull.com/
+File Name: C:\Downloaded Web Sites\www.bwull.com\index.htm
+Content Type: text/html
+
+Uri: https://www.bwull.com/cart
+File Name: C:\Downloaded Web Sites\www.bwull.com\cart.html
+Content Type: text/html
+
